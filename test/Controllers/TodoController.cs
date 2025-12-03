@@ -60,5 +60,42 @@ namespace test.Controllers
             }
             return View();
         }
+
+        [HttpGet]
+        [Route("delete")]
+        public IActionResult Delete(int id)
+        {
+            List<Todo> todos = JsonSerializer.Deserialize<List<Todo>>(HttpContext.Session.GetString("todo"));
+            todos.RemoveAt(id-1);
+            string json = session.Serialized(HttpContext, todos);
+            HttpContext.Session.SetString("todo", json);
+            return RedirectToAction(nameof(Show));
+        }
+
+        [HttpGet]
+        [Route("edit")]
+        public IActionResult Edit(int id)
+        {
+            List<Todo> todos = JsonSerializer.Deserialize<List<Todo>>(HttpContext.Session.GetString("todo"));
+            Todo todo = todos[id - 1];
+            ViewBag.id = id;
+            ViewBag.todo = todo;
+            return View();
+        }
+
+        [HttpPost]
+        [Route("update")]
+        public IActionResult Update(int id, TodoVM todo)
+        {
+            Todo todoM = TodoM.TransformTodoVMToTodo(todo);
+            List<Todo> todos = JsonSerializer.Deserialize<List<Todo>>(HttpContext.Session.GetString("todo"));
+            todos[id - 1].Libelle = todoM.Libelle;
+            todos[id - 1].Description = todoM.Description;
+            todos[id - 1].State = todoM.State;
+            todos[id - 1].DateLimite = todoM.DateLimite;
+            string json = session.Serialized(HttpContext, todos);
+            HttpContext.Session.SetString("todo", json);
+            return RedirectToAction(nameof(Show));
+        }
     }
 }

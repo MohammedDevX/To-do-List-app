@@ -4,8 +4,10 @@
     "\\test",
     "\\test\\Controllers",
     "\\test\\Models",
-    "\\test\\Services"
+    "\\test\\Services",
+    "\\test\\Views",
+    "\\test\\Views\\Todo"
   ],
-  "SelectedNode": "\\test.sln",
+  "SelectedNode": "\\test\\Views\\Todo\\Show.cshtml",
   "PreviewInSolutionExplorer": false
 }

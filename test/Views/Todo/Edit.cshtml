@@ -1,0 +1,35 @@
+﻿@model test.ViewModels.TodoVM
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="Todo" asp-action="Update" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="number" name="id" value="@ViewBag.id" hidden />
+            <div class="form-group">
+                <label asp-for="Libelle" class="control-label"></label>
+                <input asp-for="Libelle" class="form-control" value="@ViewBag.todo.Libelle" />
+                <span asp-validation-for="Libelle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" value="@ViewBag.todo.Description" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="State" class="control-label">State : </label>
+                Todo <input type="radio" name="State" value="Todo" @(ViewBag.todo.State.ToString() == "Todo" ? "checked" : "") />
+                Doing <input type="radio" name="State" value="Doing" @(ViewBag.todo.State.ToString() == "Doing" ? "checked" : "") />
+                Done <input type="radio" name="State" value="Done" @(ViewBag.todo.State.ToString() == "Done" ? "checked" : "") />
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateLimite" class="control-label"></label>
+                <input asp-for="DateLimite" type="date" class="form-control" value="@ViewBag.todo.DateLimite.ToString("yyyy-MM-dd")"  />
+                <span asp-validation-for="DateLimite" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <input type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

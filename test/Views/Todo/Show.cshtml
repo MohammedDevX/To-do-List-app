@@ -1,28 +1,37 @@
-﻿<div class="container">
+﻿@{
+    int id = 1;
+}
+<div class="container">
     
     <table class="table table-striped">
-    <tr>
+        <tr>
+            <th>Id</th>
             <th>Libelle</th>
             <th>Description</th>
             <th>State</th>
             <th>Date limite</th>
             <th>Actions</th>
-    </tr>
-        @if (ViewBag.message != null)
-        {
+        </tr>
+        @if (ViewBag.message != null) {
+        
             <tr>
                 <td colspan="4" class="text-center">@ViewBag.message</td>
             </tr>
-        } else
-        {
-            @foreach (var items in ViewBag.todos)
+        } else {
+            @foreach (Todo items in ViewBag.todos)
             {
                 <tr>
+                    <td>@id</td>
                     <td>@items.Libelle</td>
                     <td>@items.Description</td>
                     <td>@items.State</td>
-                    <td>@items.DateLimite</td>
+                    <td>@items.DateLimite.ToString("yyyy-MM-dd")</td>
+                    <td>
+                        <a asp-controller="Todo" asp-action="Edit" asp-route-id="@id" class="btn btn-warning">Update</a>
+                        <a asp-controller="Todo" asp-action="Delete" asp-route-id="@id" class="btn btn-danger">Delete</a>
+                    </td>
                 </tr>
+                id++;
             }
         }
     </table>

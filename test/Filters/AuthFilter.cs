@@ -10,8 +10,8 @@ namespace test.Filters
             base.OnActionExecuting(context);
             if (context.HttpContext.Session.GetString("user") == null)
             {
-                context.Result = new RedirectResult("/login");
-                //context.HttpContext.Response.Redirect("/login");
+                context.Result = new RedirectResult("/");
+                //context.HttpContext.Response.Redirect("/");
             }
         }
     }

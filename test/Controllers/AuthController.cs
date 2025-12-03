@@ -21,12 +21,12 @@ namespace test.Controllers
                 // context.Result permet de faire la redirection à la place du controller
                 // L'instanciation de le la class RedirectResult() permet de faire une redirection direct 
                 // vers un url
-                //context.Result = new RedirectResult("/login");
+                //context.Result = new RedirectResult("/");
 
                 // 2) Utiliser method Redirect() : 
                 // Cette method permet de faire un redirection retarder, faire par le js, donc le seveur va 
                 // executer la totalite du code controller est envoyer une response qui à une status code 301 
-                //context.HttpContext.Response.Redirect("/login");
+                //context.HttpContext.Response.Redirect("/");
 
                 // 3) Utiliser RedirectToActionResult : 
                 // Faire le meme travaille que RedirectResult, mais ceci redige vers une action d'un controller 
