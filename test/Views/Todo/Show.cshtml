@@ -1,0 +1,30 @@
+﻿<div class="container">
+    
+    <table class="table table-striped">
+    <tr>
+            <th>Libelle</th>
+            <th>Description</th>
+            <th>State</th>
+            <th>Date limite</th>
+            <th>Actions</th>
+    </tr>
+        @if (ViewBag.message != null)
+        {
+            <tr>
+                <td colspan="4" class="text-center">@ViewBag.message</td>
+            </tr>
+        } else
+        {
+            @foreach (var items in ViewBag.todos)
+            {
+                <tr>
+                    <td>@items.Libelle</td>
+                    <td>@items.Description</td>
+                    <td>@items.State</td>
+                    <td>@items.DateLimite</td>
+                </tr>
+            }
+        }
+    </table>
+    <a asp-controller="Todo" asp-action="TodoForm" class="btn btn-primary mt-2">Add todo</a>
+</div>

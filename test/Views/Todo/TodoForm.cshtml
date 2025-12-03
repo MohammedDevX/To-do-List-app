@@ -1,0 +1,50 @@
+﻿@model test.ViewModels.TodoVM
+
+@{
+    ViewData["Title"] = "TodoForm";
+}
+
+<h1>TodoForm</h1>
+
+<h4>TodoVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="Todo" asp-action="Todo" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Libelle" class="control-label"></label>
+                <input asp-for="Libelle" class="form-control" />
+                <span asp-validation-for="Libelle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="State" class="control-label">State : </label>
+                Todo <input type="radio" name="State" value="Todo" />
+                Doing <input type="radio" name="State" value="Doing" />
+                Done <input type="radio" name="State" value="Done" />
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateLimite" class="control-label"></label>
+                <input asp-for="DateLimite" class="form-control" />
+                <span asp-validation-for="DateLimite" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
