@@ -8,6 +8,6 @@
     "\\test\\Views",
     "\\test\\Views\\Todo"
   ],
-  "SelectedNode": "\\test\\Views\\Todo\\Show.cshtml",
+  "SelectedNode": "\\test\\Controllers\\TodoController.cs",
   "PreviewInSolutionExplorer": false
 }

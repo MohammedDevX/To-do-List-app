@@ -49,8 +49,7 @@
               "RelativeToolTip": "test\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:11:37.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T16:11:37.684Z"
             },
             {
               "$type": "Document",
@@ -62,8 +61,7 @@
               "RelativeToolTip": "test\\Filters\\AuthFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:11:25.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T16:11:25.66Z"
             },
             {
               "$type": "Document",
@@ -75,8 +73,7 @@
               "RelativeToolTip": "test\\Controllers\\UserController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:59:24.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:59:24.987Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "test\\Views\\Todo\\Edit.cshtml",
               "ViewState": "AgIAABEAAAAAAAAAAAAkwBoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-03T15:34:27.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:34:27.152Z"
             },
             {
               "$type": "Document",
@@ -112,7 +108,7 @@
               "RelativeDocumentMoniker": "test\\Controllers\\TodoController.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\.NET projects\\TPS\\Session_with_auth\\test\\Controllers\\TodoController.cs",
               "RelativeToolTip": "test\\Controllers\\TodoController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwD8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T14:35:40.975Z",
               "EditorCaption": ""
@@ -127,8 +123,7 @@
               "RelativeToolTip": "test\\Views\\Todo\\Show.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-03T14:13:52.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T14:13:52.835Z"
             }
           ]
         }
