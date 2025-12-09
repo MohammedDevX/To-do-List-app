@@ -2,6 +2,6 @@
 {
     public interface ISessionService
     {
-        public string Serialized(HttpContext sess, object ob);
+        public void Add(string key, HttpContext sess, object ob);
     }
 }

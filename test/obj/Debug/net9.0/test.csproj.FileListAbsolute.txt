@@ -1,0 +1,1137 @@
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\appsettings.json
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\test.staticwebassets.runtime.json
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\test.staticwebassets.endpoints.json
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\test.exe
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\test.deps.json
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\test.runtimeconfig.json
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\test.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\test.pdb
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Humanizer.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.AssemblyInfo.cs
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\scopedcss\bundle\test.styles.css
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\scopedcss\projectbundle\test.bundle.scp.css
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\tbs5d15iad-b9sayid5wm.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\uc2x0jr67d-61n19gt1b8.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\gvgv99lofo-xtxxf3hu2r.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\ldu9793ypk-bqjiyaj88i.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\uf8dge2afg-c2jlpeoesf.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\9d6ba5w2uj-erw9l3u2r3.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\qiw0sfzdh8-aexeepp0ev.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\dwguyjee5p-d7shbmvgxk.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\8gtr6lqkil-ausgxo2sd3.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\xmi9ndi0ph-k8d9w2qqmf.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\w1wiu6dj8l-cosvhxvwiu.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\z51oh93qsd-ub07r2b239.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\p7vknla7n1-fvhpjtyr6v.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\92pjrzhbze-b7pk76d08c.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\0wk1feojqy-fsbi9cje9m.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\ujr1mdqxnj-rzd6atqjts.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\zvcncfaudw-ee0r1s7dh0.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\wd2m2a1a4d-dxx9fxp4il.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\geu5blvpsu-jd9uben2k1.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\3o8g5r86ft-khv3u5hwcm.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\x96d63i8mh-r4e9w2rdcm.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\9q2wdn8syw-lcd1t2u6c8.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\hk3kjy7uaq-c2oey78nd0.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\z66cqh40k7-tdbxkamptv.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\f6drs53us0-j5mq2jizvt.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\l0pun0hbhy-06098lyss8.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\icz9i48b56-nvvlpmu67g.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\mwlqmihhpt-s35ty4nyc5.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\4ndwbjt0ll-pj5nd1wqec.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\m6nptzfejp-46ein0sx1k.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\fsmr5fnegw-v0zj4ognzu.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\j0aimo3d9e-37tfw0ft22.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\f21nw4trgi-hrwsygsryq.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\zsl3kkrcrl-pk9g2wxc8p.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\slmnltc846-ft3s53vfgj.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\dmfjjk0jfa-6cfz1n2cew.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\3vwoerjm43-6pdc2jztkx.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\yg9u5o9gza-493y06b0oq.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\lz0a843mzf-iovd86k7lj.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\tx55bcxm1t-vr1egmr9el.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\yuek4ls5y1-kbrnm935zg.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\f4tftz6ijk-jj8uyg4cgr.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\sdi8lj1fhx-y7v9cxd14o.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\dvl3qgc2aq-notf2xhcfb.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\rgi8sl8ve6-h1s4sie4z3.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\hbn95onnsa-63fj8s7r0e.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\o1aagykfzk-0j3bgjxly4.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\zkpwkgjlkv-47otxtyo56.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\951na15c5v-4v8eqarkd7.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\tra42q6a79-356vix0kms.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\4ul9e3wg5l-83jwlth58m.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\5u5b810de0-mrlpezrjn3.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\zy4pvjccah-lzl9nlhx6b.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\3693bl5mhw-ag7o75518u.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\72wj053me0-x0q3zqp4vz.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\4dd7ydgh3c-0i3buxo5is.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\of7runt1xt-o1o13a6vjx.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\5sxdagd4ts-ttgo8qnofa.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\f5ggwbm1we-2z0ns9nrw6.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\h25qm0t2bv-muycvpuwrr.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\5iis523brh-87fc7y1x7t.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\ogsfrsvz1e-mlv21k5csn.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\92rk1w1z3n-bdm17gfwse.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\compressed\yy8pupl6iu-bdm17gfwse.gz
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.csproj.Up2Date
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.dll
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\refint\test.dll
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.pdb
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\test.genruntimeconfig.cache
+C:\Users\hp\Desktop\test\test\obj\Debug\net9.0\ref\test.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\appsettings.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\test.staticwebassets.endpoints.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\test.staticwebassets.runtime.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\test.exe
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\test.deps.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\test.runtimeconfig.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\test.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\test.pdb
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Humanizer.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.AssemblyInfo.cs
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\scopedcss\bundle\test.styles.css
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\scopedcss\projectbundle\test.bundle.scp.css
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\tbs5d15iad-b9sayid5wm.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\uc2x0jr67d-61n19gt1b8.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\gvgv99lofo-xtxxf3hu2r.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\ldu9793ypk-bqjiyaj88i.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\uf8dge2afg-c2jlpeoesf.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\9d6ba5w2uj-erw9l3u2r3.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\qiw0sfzdh8-aexeepp0ev.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\dwguyjee5p-d7shbmvgxk.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\8gtr6lqkil-ausgxo2sd3.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\xmi9ndi0ph-k8d9w2qqmf.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\w1wiu6dj8l-cosvhxvwiu.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\z51oh93qsd-ub07r2b239.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\p7vknla7n1-fvhpjtyr6v.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\92pjrzhbze-b7pk76d08c.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\0wk1feojqy-fsbi9cje9m.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\ujr1mdqxnj-rzd6atqjts.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\zvcncfaudw-ee0r1s7dh0.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\wd2m2a1a4d-dxx9fxp4il.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\geu5blvpsu-jd9uben2k1.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\3o8g5r86ft-khv3u5hwcm.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\x96d63i8mh-r4e9w2rdcm.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\9q2wdn8syw-lcd1t2u6c8.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\hk3kjy7uaq-c2oey78nd0.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\z66cqh40k7-tdbxkamptv.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\f6drs53us0-j5mq2jizvt.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\l0pun0hbhy-06098lyss8.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\icz9i48b56-nvvlpmu67g.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\mwlqmihhpt-s35ty4nyc5.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\4ndwbjt0ll-pj5nd1wqec.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\m6nptzfejp-46ein0sx1k.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\fsmr5fnegw-v0zj4ognzu.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\j0aimo3d9e-37tfw0ft22.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\f21nw4trgi-hrwsygsryq.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\zsl3kkrcrl-pk9g2wxc8p.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\slmnltc846-ft3s53vfgj.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\dmfjjk0jfa-6cfz1n2cew.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\3vwoerjm43-6pdc2jztkx.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\yg9u5o9gza-493y06b0oq.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\lz0a843mzf-iovd86k7lj.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\tx55bcxm1t-vr1egmr9el.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\yuek4ls5y1-kbrnm935zg.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\f4tftz6ijk-jj8uyg4cgr.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\sdi8lj1fhx-y7v9cxd14o.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\dvl3qgc2aq-notf2xhcfb.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\rgi8sl8ve6-h1s4sie4z3.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\hbn95onnsa-63fj8s7r0e.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\o1aagykfzk-0j3bgjxly4.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\zkpwkgjlkv-47otxtyo56.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\951na15c5v-4v8eqarkd7.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\tra42q6a79-356vix0kms.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\4ul9e3wg5l-83jwlth58m.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\5u5b810de0-mrlpezrjn3.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\zy4pvjccah-lzl9nlhx6b.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\3693bl5mhw-ag7o75518u.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\72wj053me0-x0q3zqp4vz.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\4dd7ydgh3c-0i3buxo5is.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\of7runt1xt-o1o13a6vjx.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\5sxdagd4ts-ttgo8qnofa.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\f5ggwbm1we-2z0ns9nrw6.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\h25qm0t2bv-muycvpuwrr.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\5iis523brh-87fc7y1x7t.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\ogsfrsvz1e-mlv21k5csn.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\92rk1w1z3n-bdm17gfwse.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\compressed\yy8pupl6iu-bdm17gfwse.gz
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.csproj.Up2Date
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\refint\test.dll
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.pdb
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\test.genruntimeconfig.cache
+C:\Users\hp\Desktop\.NET projects\Session with auth\test\obj\Debug\net9.0\ref\test.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.AssemblyInfo.cs
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\refint\test.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.pdb
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\appsettings.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\test.staticwebassets.endpoints.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\test.staticwebassets.runtime.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\test.exe
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\test.deps.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\test.runtimeconfig.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\test.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\test.pdb
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Humanizer.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\scopedcss\bundle\test.styles.css
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\scopedcss\projectbundle\test.bundle.scp.css
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\tbs5d15iad-b9sayid5wm.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\uc2x0jr67d-61n19gt1b8.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\gvgv99lofo-xtxxf3hu2r.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\ldu9793ypk-bqjiyaj88i.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\uf8dge2afg-c2jlpeoesf.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\9d6ba5w2uj-erw9l3u2r3.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\qiw0sfzdh8-aexeepp0ev.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\dwguyjee5p-d7shbmvgxk.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\8gtr6lqkil-ausgxo2sd3.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\xmi9ndi0ph-k8d9w2qqmf.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\w1wiu6dj8l-cosvhxvwiu.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\z51oh93qsd-ub07r2b239.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\p7vknla7n1-fvhpjtyr6v.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\92pjrzhbze-b7pk76d08c.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\0wk1feojqy-fsbi9cje9m.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\ujr1mdqxnj-rzd6atqjts.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\zvcncfaudw-ee0r1s7dh0.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\wd2m2a1a4d-dxx9fxp4il.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\geu5blvpsu-jd9uben2k1.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\3o8g5r86ft-khv3u5hwcm.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\x96d63i8mh-r4e9w2rdcm.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\9q2wdn8syw-lcd1t2u6c8.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\hk3kjy7uaq-c2oey78nd0.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\z66cqh40k7-tdbxkamptv.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\f6drs53us0-j5mq2jizvt.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\l0pun0hbhy-06098lyss8.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\icz9i48b56-nvvlpmu67g.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\mwlqmihhpt-s35ty4nyc5.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\4ndwbjt0ll-pj5nd1wqec.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\m6nptzfejp-46ein0sx1k.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\fsmr5fnegw-v0zj4ognzu.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\j0aimo3d9e-37tfw0ft22.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\f21nw4trgi-hrwsygsryq.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\zsl3kkrcrl-pk9g2wxc8p.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\slmnltc846-ft3s53vfgj.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\dmfjjk0jfa-6cfz1n2cew.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\3vwoerjm43-6pdc2jztkx.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\yg9u5o9gza-493y06b0oq.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\lz0a843mzf-iovd86k7lj.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\tx55bcxm1t-vr1egmr9el.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\yuek4ls5y1-kbrnm935zg.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\f4tftz6ijk-jj8uyg4cgr.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\sdi8lj1fhx-y7v9cxd14o.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\dvl3qgc2aq-notf2xhcfb.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\rgi8sl8ve6-h1s4sie4z3.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\hbn95onnsa-63fj8s7r0e.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\o1aagykfzk-0j3bgjxly4.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\zkpwkgjlkv-47otxtyo56.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\951na15c5v-4v8eqarkd7.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\tra42q6a79-356vix0kms.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\4ul9e3wg5l-83jwlth58m.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\5u5b810de0-mrlpezrjn3.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\zy4pvjccah-lzl9nlhx6b.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\3693bl5mhw-ag7o75518u.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\72wj053me0-x0q3zqp4vz.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\4dd7ydgh3c-0i3buxo5is.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\of7runt1xt-o1o13a6vjx.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\5sxdagd4ts-ttgo8qnofa.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\f5ggwbm1we-2z0ns9nrw6.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\h25qm0t2bv-muycvpuwrr.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\5iis523brh-87fc7y1x7t.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\ogsfrsvz1e-mlv21k5csn.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\92rk1w1z3n-bdm17gfwse.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\compressed\yy8pupl6iu-bdm17gfwse.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.csproj.Up2Date
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\test.genruntimeconfig.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session with auth\test\obj\Debug\net9.0\ref\test.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\appsettings.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\test.staticwebassets.endpoints.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\test.staticwebassets.runtime.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\test.exe
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\test.deps.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\test.runtimeconfig.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\test.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\test.pdb
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Humanizer.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.AssemblyInfo.cs
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.sourcelink.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\scopedcss\bundle\test.styles.css
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\scopedcss\projectbundle\test.bundle.scp.css
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\tbs5d15iad-b9sayid5wm.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\uc2x0jr67d-61n19gt1b8.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\gvgv99lofo-xtxxf3hu2r.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\ldu9793ypk-bqjiyaj88i.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\uf8dge2afg-c2jlpeoesf.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\9d6ba5w2uj-erw9l3u2r3.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\qiw0sfzdh8-aexeepp0ev.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\dwguyjee5p-d7shbmvgxk.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\8gtr6lqkil-ausgxo2sd3.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\xmi9ndi0ph-k8d9w2qqmf.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\w1wiu6dj8l-cosvhxvwiu.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\z51oh93qsd-ub07r2b239.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\p7vknla7n1-fvhpjtyr6v.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\92pjrzhbze-b7pk76d08c.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\0wk1feojqy-fsbi9cje9m.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\ujr1mdqxnj-rzd6atqjts.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\zvcncfaudw-ee0r1s7dh0.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\wd2m2a1a4d-dxx9fxp4il.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\geu5blvpsu-jd9uben2k1.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\3o8g5r86ft-khv3u5hwcm.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\x96d63i8mh-r4e9w2rdcm.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\9q2wdn8syw-lcd1t2u6c8.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\hk3kjy7uaq-c2oey78nd0.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\z66cqh40k7-tdbxkamptv.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\f6drs53us0-j5mq2jizvt.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\l0pun0hbhy-06098lyss8.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\icz9i48b56-nvvlpmu67g.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\mwlqmihhpt-s35ty4nyc5.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\4ndwbjt0ll-pj5nd1wqec.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\m6nptzfejp-46ein0sx1k.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\fsmr5fnegw-v0zj4ognzu.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\j0aimo3d9e-37tfw0ft22.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\f21nw4trgi-hrwsygsryq.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\zsl3kkrcrl-pk9g2wxc8p.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\slmnltc846-ft3s53vfgj.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\dmfjjk0jfa-6cfz1n2cew.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\3vwoerjm43-6pdc2jztkx.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\yg9u5o9gza-493y06b0oq.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\lz0a843mzf-iovd86k7lj.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\tx55bcxm1t-vr1egmr9el.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\yuek4ls5y1-kbrnm935zg.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\f4tftz6ijk-jj8uyg4cgr.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\sdi8lj1fhx-y7v9cxd14o.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\dvl3qgc2aq-notf2xhcfb.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\rgi8sl8ve6-h1s4sie4z3.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\hbn95onnsa-63fj8s7r0e.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\o1aagykfzk-0j3bgjxly4.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\zkpwkgjlkv-47otxtyo56.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\951na15c5v-4v8eqarkd7.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\tra42q6a79-356vix0kms.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\4ul9e3wg5l-83jwlth58m.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\5u5b810de0-mrlpezrjn3.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\zy4pvjccah-lzl9nlhx6b.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\3693bl5mhw-ag7o75518u.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\72wj053me0-x0q3zqp4vz.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\4dd7ydgh3c-0i3buxo5is.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\of7runt1xt-o1o13a6vjx.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\5sxdagd4ts-ttgo8qnofa.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\f5ggwbm1we-2z0ns9nrw6.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\h25qm0t2bv-muycvpuwrr.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\5iis523brh-87fc7y1x7t.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\ogsfrsvz1e-mlv21k5csn.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\92rk1w1z3n-bdm17gfwse.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\compressed\yy8pupl6iu-bdm17gfwse.gz
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.csproj.Up2Date
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\refint\test.dll
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.pdb
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\test.genruntimeconfig.cache
+C:\Users\hp\Desktop\.NET projects\TPS\Session_with_auth\test\obj\Debug\net9.0\ref\test.dll

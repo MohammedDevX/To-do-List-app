@@ -5,9 +5,9 @@ namespace test.Services
 {
     public class SessionService : ISessionService
     {
-        public string Serialized(HttpContext sess, object ob)
+        public void Add(string key, HttpContext sess, object ob)
         {
-            return JsonSerializer.Serialize(ob);
+            sess.Session.SetString(key, JsonSerializer.Serialize(ob));
         }
     }
 }

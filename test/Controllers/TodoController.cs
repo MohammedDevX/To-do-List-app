@@ -42,8 +42,7 @@ namespace test.Controllers
 
             todos.Add(todoM);
 
-            string json = session.Serialized(HttpContext, todos);
-            HttpContext.Session.SetString("todo", json);
+            session.Add("todo", HttpContext, todos);
             return RedirectToAction(nameof(Show));
         }
 
@@ -62,13 +61,12 @@ namespace test.Controllers
         }
 
         [HttpGet]
-        [Route("delete")]
+        //[Route("delete")]
         public IActionResult Delete(int id)
         {
             List<Todo> todos = JsonSerializer.Deserialize<List<Todo>>(HttpContext.Session.GetString("todo"));
             todos.RemoveAt(id-1);
-            string json = session.Serialized(HttpContext, todos);
-            HttpContext.Session.SetString("todo", json);
+            session.Add("todo", HttpContext, todos);
             return RedirectToAction(nameof(Show));
         }
 
@@ -84,7 +82,7 @@ namespace test.Controllers
         }
 
         [HttpPost]
-        [Route("update")]
+        //[Route("update")]
         public IActionResult Update(int id, TodoVM todo)
         {
             Todo todoM = TodoM.TransformTodoVMToTodo(todo);
@@ -93,8 +91,7 @@ namespace test.Controllers
             todos[id - 1].Description = todoM.Description;
             todos[id - 1].State = todoM.State;
             todos[id - 1].DateLimite = todoM.DateLimite;
-            string json = session.Serialized(HttpContext, todos);
-            HttpContext.Session.SetString("todo", json);
+            session.Add("todo", HttpContext, todos);
             return RedirectToAction(nameof(Show));
         }
     }

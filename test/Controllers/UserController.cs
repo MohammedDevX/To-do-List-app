@@ -43,9 +43,7 @@ namespace test.Controllers
             {
                 return View(nameof(LoginForm));
             }
-            //string JsonUser = JsonSerializer.Serialize(user);
-            string JsonUser = sess.Serialized(HttpContext, userM);
-            HttpContext.Session.SetString("user", JsonUser);
+            sess.Add("user", HttpContext, userM);
             return RedirectToAction(nameof(Show));
         }
 
