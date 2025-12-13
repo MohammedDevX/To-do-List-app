@@ -1,0 +1,30 @@
+[13/12/2025 16:57:13] Executing action test.Controllers.UserController.logOut (test) with parameters {}
+[13/12/2025 16:57:13] Executed action test.Controllers.UserController.logOut (test) successfully
+[13/12/2025 16:57:13] Executing action test.Controllers.UserController.LoginForm (test) with parameters {}
+[13/12/2025 16:57:13] Executed action test.Controllers.UserController.LoginForm (test) successfully
+[13/12/2025 17:02:06] Executing action test.Controllers.UserController.LoginForm (test) with parameters {}
+[13/12/2025 17:02:06] Executed action test.Controllers.UserController.LoginForm (test) successfully
+[13/12/2025 17:02:14] Executing action test.Controllers.UserController.Login (test) with parameters {"user":{"Login":"lod","Pass":"loo"}}
+[13/12/2025 17:02:15] Executed action test.Controllers.UserController.Login (test) successfully
+[13/12/2025 17:02:32] Executing action test.Controllers.UserController.Login (test) with parameters {"user":{"Login":"med","Pass":"dem"}}
+[13/12/2025 17:02:32] Executed action test.Controllers.UserController.Login (test) successfully
+[13/12/2025 17:02:32] Executing action test.Controllers.UserController.Show (test) with parameters {}
+[13/12/2025 17:02:32] Executed action test.Controllers.UserController.Show (test) successfully
+[13/12/2025 17:02:34] Executing action test.Controllers.TodoController.Show (test) with parameters {}
+[13/12/2025 17:02:34] Executed action test.Controllers.TodoController.Show (test) successfully
+[13/12/2025 17:02:34] Executing action test.Controllers.TodoController.TodoForm (test) with parameters {}
+[13/12/2025 17:02:34] Executed action test.Controllers.TodoController.TodoForm (test) successfully
+[13/12/2025 17:02:51] Executing action test.Controllers.TodoController.Todo (test) with parameters {"todo":{"Libelle":"test","Description":null,"State":1,"DateLimite":"2025-12-13T00:00:00"}}
+[13/12/2025 17:02:51] Executed action test.Controllers.TodoController.Todo (test) successfully
+[13/12/2025 17:02:51] Executing action test.Controllers.TodoController.Show (test) with parameters {}
+[13/12/2025 17:02:51] Executed action test.Controllers.TodoController.Show (test) successfully
+[13/12/2025 17:02:54] Executing action test.Controllers.TodoController.Delete (test) with parameters {"id":1}
+[13/12/2025 17:02:54] Executed action test.Controllers.TodoController.Delete (test) successfully
+[13/12/2025 17:02:54] Executing action test.Controllers.TodoController.Show (test) with parameters {}
+[13/12/2025 17:02:54] Executed action test.Controllers.TodoController.Show (test) successfully
+[13/12/2025 17:02:58] Executing action test.Controllers.UserController.Show (test) with parameters {}
+[13/12/2025 17:02:58] Executed action test.Controllers.UserController.Show (test) successfully
+[13/12/2025 17:02:59] Executing action test.Controllers.UserController.logOut (test) with parameters {}
+[13/12/2025 17:02:59] Executed action test.Controllers.UserController.logOut (test) successfully
+[13/12/2025 17:02:59] Executing action test.Controllers.UserController.LoginForm (test) with parameters {}
+[13/12/2025 17:02:59] Executed action test.Controllers.UserController.LoginForm (test) successfully

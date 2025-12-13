@@ -9,6 +9,7 @@ using test.ViewModels;
 namespace test.Controllers
 {
     // If you use filters, you must use annotation [name of the class filter]
+    [LogsFilter]
     [AuthFilter]
     public class TodoController : Controller // or using AuthController
     {
