@@ -3,12 +3,10 @@ using System.Text.Json;
 
 public class LogsFilter : ActionFilterAttribute
 {
-    private readonly ILogger<LogsFilter> logs;
     private readonly string logFile;
 
-    public LogsFilter(ILogger<LogsFilter> logger)
+    public LogsFilter()
     {
-        logs = logger;
         logFile = Path.Combine(Directory.GetCurrentDirectory(), "Logs", "todo-log.txt");
         Directory.CreateDirectory(Path.GetDirectoryName(logFile)!);
     }
@@ -18,7 +16,6 @@ public class LogsFilter : ActionFilterAttribute
         base.OnActionExecuting(context);
         var message = $"Executing action {context.ActionDescriptor.DisplayName} " +
             $"avec params {JsonSerializer.Serialize(context.ActionArguments)}";
-        logs.LogInformation(message);
         WriteLogToFile(message);
     }
 
@@ -27,7 +24,6 @@ public class LogsFilter : ActionFilterAttribute
         base.OnActionExecuted(context);
         string message;
         message = $"Executed action {context.ActionDescriptor.DisplayName} avec succes";
-        logs.LogInformation(message);
         WriteLogToFile(message);
     }
 

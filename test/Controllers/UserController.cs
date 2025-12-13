@@ -7,6 +7,7 @@ using test.ViewModels;
 
 namespace test.Controllers
 {
+    [LogsFilter]
     public class UserController : Controller
     {
         private LoginService login;

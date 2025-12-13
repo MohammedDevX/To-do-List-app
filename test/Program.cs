@@ -1,4 +1,3 @@
-using test.Filters;
 using test.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,12 +7,6 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<LoginService>();
 builder.Services.AddScoped<ISessionService, SessionService>();
-builder.Services.AddScoped<LogsFilter>();
-
-//builder.Services.AddControllersWithViews(options =>
-//{
-//    options.Filters.AddService<LogsFilter>();
-//});
 
 builder.Services.AddSession(
     opt =>
